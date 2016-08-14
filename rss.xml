@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[plus-value]]></title>
         <description><![CDATA[plus-value]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/plus-value/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 12:16:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Aug 2016 12:19:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/plus-value/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Pour les entreprises privées, la mise en œuvre sera simplifiée grâce au {{déploiement de la déclaration sociale nominative (DSN)}}. L’administration fiscale calculera le taux de prélèvement et restera responsable de la collecte de l’impôt sur le revenu. Les entreprises recevront le taux de prélèvement à appliquer sur le salaire par le même système informatique que celui par lequel elles transmettent la déclaration sociale nominative (DSN). [En savoir plus sur http://www.dsn-info.fr/] Les entreprises reverseront l’impôt à l’administration fiscale plusieurs jours après le versement du salaire. Elles bénéficieront d’un effet positif sur leur trésorerie, de 8 jours, 15 jours ou 3 mois selon la taille de l’entreprise. Les collecteurs publics bénéficieront également de modalités simplifiées.</p>]]></description>
-            <link>undefinedpour-les-entreprises-privees-la-mise-en-oeuvre-sera-simplifi/index.html</link>
+            <link>https://thegrid.ai/plus-value/pour-les-entreprises-privees-la-mise-en-oeuvre-sera-simplifi/index.html</link>
             <guid isPermaLink="false">2a22ed2b-b2cf-4a51-84f3-5de26fde3a80</guid>
-            <pubDate>Sun, 14 Aug 2016 12:16:31 GMT</pubDate>
+            <pubDate>Sun, 14 Aug 2016 12:19:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
