@@ -1,7 +1,7 @@
 name: plus-value
 favicon: null
 layout_spectrum: 0.24836
-typography_spectrum: 0.88103
+typography_spectrum: 0.75793
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#8d8d8d'
     - '#676767'
     - '#c4c4c4'
-  brandStrength: 0.47450846596620977
-  lightness: 0.34723877068609
-  saturation: 0.6694820579141378
-  rhythmicContrast: 0.8085686729755253
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
