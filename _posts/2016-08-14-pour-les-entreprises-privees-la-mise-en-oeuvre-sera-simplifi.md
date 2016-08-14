@@ -16,16 +16,16 @@ description: >-
   bénéficieront d’un effet positif sur leur trésorerie, de 8 jours, 15 jours ou
   3 mois selon la taille de l’entreprise. Les collecteurs publics bénéficieront
   également de modalités simplifiées.
-datePublished: '2016-08-14T12:16:31.650Z'
-dateModified: '2016-08-14T12:16:24.866Z'
-authors: []
-publisher: {}
+datePublished: '2016-08-14T12:19:24.716Z'
+dateModified: '2016-08-14T12:17:09.618Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-14-pour-les-entreprises-privees-la-mise-en-oeuvre-sera-simplifi.md
+authors: []
+publisher: {}
+starred: false
 url: pour-les-entreprises-privees-la-mise-en-oeuvre-sera-simplifi/index.html
 _type: Article
 
