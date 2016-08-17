@@ -1,28 +1,40 @@
-name: plus-value
-favicon: null
-layout_spectrum: 0.50379
-typography_spectrum: 0.75793
-cta:
-  domain: null
-  bucket: null
-  version: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5
+  brandStrength: 0
+  lightness: 0.5
+  brandColors:
+    - '#52517B'
+    - '#FFFFFF'
+    - '#F4973B'
+    - '#B1B1C4'
+    - '#010101'
+  rhythmicContrast: 0.5
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: plus-value
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#282828'
-    - '#f8f8f8'
-    - '#8d8d8d'
-    - '#676767'
-    - '#c4c4c4'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.75793
+layout_spectrum: 0.688172
