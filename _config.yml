@@ -21,15 +21,15 @@ color:
     - '#F4973B'
     - '#B1B1C4'
     - '#010101'
-  rhythmicContrast: 0.5
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  rhythmicContrast: 0.7580645
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
 name: plus-value
 opengraph:
